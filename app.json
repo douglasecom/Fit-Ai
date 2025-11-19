@@ -19,6 +19,9 @@
   "extra": {
     "eas": {
       "projectId": "c79974a3-f7cb-4024-9fd5-c2278109f7a1"
-    }
+    },
+    "GEMINI_API_KEY": "AIzaSyBAw8qDytD2mzW-iqbxLgWGZ6HNwYavwZc",
+    "GEMINI_PROJECT_NUMBER": "708064286400",
+    "GEMINI_PROJECT_PATH": "projects/708064286400"
   }
 }
