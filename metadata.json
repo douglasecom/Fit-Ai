@@ -1,0 +1,8 @@
+{
+  "name": "Fit-AI: Nutrição Inteligente",
+  "description": "Um aplicativo de emagrecimento que utiliza IA para contar calorias de fotos de pratos, gerar cardápios diários e lembrar você de beber água para uma vida mais saudável.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
